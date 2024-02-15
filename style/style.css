@@ -1301,7 +1301,6 @@ body {
         margin-top: 10%;
         visibility: visible;
         display: flex;
-        width: 90%;
         height: auto;
         border-radius: 32px;
         box-shadow: 5px 5px 8px rgb(91, 91, 99), 10px 10px 8px rgb(137, 70, 214), 15px 15px 8px rgb(37, 37, 37);
