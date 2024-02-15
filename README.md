@@ -1,7 +1,7 @@
 
 # Challenge ONE - Decodificador de Texto
 
-Este projeto foi desenvolvido como resposta a um desafio proposto pelo programa ONE. Para concluir o desafio, foram necessárias habilidades em HTML, CSS e JavaScript. Além disso, foi necessário conhecimento sobre lógica computacional e a capacidade de interpretação para que fosse possível utilizar a API proposta.
+Este projeto foi desenvolvido como resposta a um desafio proposto pelo programa ONE. Para concluir o desafio, foram necessárias habilidades em HTML, CSS e JavaScript. O projeto tem como objetivo permitir que usuários criptografem textos, como também descriptografar textos com o mesmo padrão de criptografia.
 
 Requisitos:
 - Não utilize letras com acentos ou caracteres especiais
