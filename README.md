@@ -1,6 +1,13 @@
+
 # Challenge ONE - Decodificador de Texto
 
 Este projeto foi desenvolvido como resposta a um desafio proposto pelo programa ONE. Para concluir o desafio, foram necessárias habilidades em HTML, CSS e JavaScript. Além disso, foi necessário conhecimento sobre lógica computacional e a capacidade de interpretação para que fosse possível utilizar a API proposta.
+
+Requisitos:
+- Não utilize letras com acentos nem caracteres especiais
+Por exemplo:
+- %$áìó@
+
 ## Aprendizados
 
 Desafio Programa ONE
@@ -16,6 +23,13 @@ Desafio Programa ONE
 - Descriptografar textos 
 - Copiar e colar textos
 
+
+## Teste o Decodificador
+
+### 📋Copie o texto criptografado
+```javascript
+fufatncimesobernoberufatufatufat!   
+```
 
 
 ## Como utilizar API Clipboard
