@@ -52,4 +52,4 @@ function copiarTexto(){
 
 **Back-end:** JavaScript
 
-**Desafio cocluído com sucesso! 💻✨**
+**Desafio concluído com sucesso! 💻✨**
