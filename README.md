@@ -9,9 +9,8 @@ Requisitos:
 Por exemplo:
 - %$áìó@
 
-## Aprendizados
+## Aprendizado
 
-Desafio Programa ONE
 
 - Responsividade com MEDIA QUERIES
 - Uso Clipboard API
