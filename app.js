@@ -4,7 +4,7 @@ function codificarPalavra() {
     let palavra = "";
     let palavraDecodificada = document.querySelector('input').value;
     palavraDecodificada = palavraDecodificada.toLowerCase();
-    alert(palavraDecodificada);
+   
     for (let i = 0; i < palavraDecodificada.length; i++) {
         var element = palavraDecodificada[i];
         if (element == 'e') {
