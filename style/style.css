@@ -1174,6 +1174,9 @@ body {
     }
 
     .buttons2 {
+        padding: 4%;
+        height: 60px;
+        width: 200px;
         font-size: 1.5rem;
         margin: 1%;
         background-color: #7868E6;
@@ -1183,27 +1186,26 @@ body {
         color: #D8DFE8;
     }
 
+.retangulo {
+    margin-left: 90%;
+    margin-top: 2%;
+    visibility: visible;
+    display: flex;
+    width: 600px;
+    height: auto;
+    border-radius: 32px;
+    box-shadow: 5px 5px 8px rgb(91, 91, 99), 10px 10px 8px rgb(137, 70, 214), 15px 15px 8px rgb(37, 37, 37);
+    justify-content: center;
+    align-items: center;
+}
 
-    .retangulo {
-        margin-left: 10%;
-        margin-top: 10%;
-        visibility: visible;
-        display: flex;
-        width: 90%;
-        height: auto;
-        border-radius: 32px;
-        box-shadow: 5px 5px 8px rgb(91, 91, 99), 10px 10px 8px rgb(137, 70, 214), 15px 15px 8px rgb(37, 37, 37);
-        justify-content: center;
-        align-items: center;
-    }
-
-    .h2-titulo {
-        color: var(--cor-primaria);
-        margin: 5%;
-        font-size: 2rem;
-        font-family: 'Inter', sans-serif;
-        font-weight: 700;
-    }
+   .h2-titulo {
+    color: var(--cor-primaria);
+    margin: 5%;
+    font-size: 1.5rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
 
     .h6-encript {
         margin: 5%;
@@ -1212,18 +1214,18 @@ body {
     }
 
     .buttons-c {
-        padding: 5%;
-        margin-top: 10%;
-        background-color: #ffffff;
-        border: 0.1rem solid #7868E6;
-        color: #7868E6;
-        font-weight: 700;
-        justify-content: center;
-        display: flex;
-        margin: 8%;
-        width: 80%;
-        height: 20%;
-    }
+    padding: 5%;
+    margin-top: 10%;
+    background-color: #ffffff;
+    border: 0.1rem solid #7868E6;
+    color: #7868E6;
+    font-weight: 700;
+    justify-content: center;
+    display: flex;
+    margin: 4%;
+    width: 80%;
+   
+}
 
     .alerta {
         align-items: center;
